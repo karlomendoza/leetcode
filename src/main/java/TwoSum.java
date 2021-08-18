@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TwoSum {
-  public int[] twoSum(int[] nums, int target) {
+  public static int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> diff = new HashMap<>();
 
     for (int i = 0; i < nums.length ; i++) {
