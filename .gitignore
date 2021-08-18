@@ -1,0 +1,13 @@
+*.iml
+.idea
+*/target/
+*/build/
+.gradle
+build
+.gradletasknamecache
+!gradle-wrapper.jar
+**/target/
+**/out/
+gradle/
+gradlew
+gradlew.bat
