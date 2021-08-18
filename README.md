@@ -17,5 +17,21 @@ Solution for LeetCode Problems
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./src/main/java/LetterCombinationsOfAPhoneNumber.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./src/main/java/RemoveNthNodeFromEndOfList.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./src/main/java/MergeTwoSortedLists.java)|Easy|
+|23_Not_done|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./src/main/java/.java)||
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./src/main/java/SwapNodesInPairs.java)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/main/java/RemoveDuplicatesFromSortedArray.java)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./src/main/java/RemoveElement.java)|Easy|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Java](./src/main/java/ImplementStrStr.java)|Easy|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./src/main/java/GrayCode.java)|Medium|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)|Medium|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./src/main/java/PowerOfFour.java)|Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/AddStrings.java)|Easy|
+|542|[ZeroOne Matrix](https://leetcode.com/problems/01-matrix/) | [Java](./src/main/java/ZeroOneMatrix.java)|Medium|
+|567_need_optimization|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./src/main/java/PermutationInString.java)|Medium|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Java](./src/main/java/FindKClosestElements.java)|Medium|
+|677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](./src/main/java/MapSumPairs.java)|Medium|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Java](./src/main/java/BinaryTreePruning.java)|Medium|
+||[]() | [Java](./src/main/java/.java)|Medium|
+||[]() | [Java](./src/main/java/.java)||
 ||[]() | [Java](./src/main/java/.java)||
 ||[]() | [Java](./src/main/java/.java)||
