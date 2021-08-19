@@ -31,7 +31,7 @@ Solution for LeetCode Problems
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Java](./src/main/java/FindKClosestElements.java)|Medium|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](./src/main/java/MapSumPairs.java)|Medium|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Java](./src/main/java/BinaryTreePruning.java)|Medium|
-||[]() | [Java](./src/main/java/.java)|Medium|
-||[]() | [Java](./src/main/java/.java)||
-||[]() | [Java](./src/main/java/.java)||
+|838_need_optimization|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Java](./src/main/java/PushDominoes.java)|Medium|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Java](./src/main/java/PartitionArrayIntoDisjointIntervals.java)|Medium|
+|1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Java](./src/main/java/CheckIfOneStringSwapCanMakeStringsEqual.java)|Easy|
 ||[]() | [Java](./src/main/java/.java)||
