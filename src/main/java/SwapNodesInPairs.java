@@ -1,3 +1,4 @@
+import RecurringObjects.ListNode;
 import java.util.Stack;
 
 public class SwapNodesInPairs {
