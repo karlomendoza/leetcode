@@ -17,7 +17,7 @@ Solution for LeetCode Problems
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./src/main/java/LetterCombinationsOfAPhoneNumber.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./src/main/java/RemoveNthNodeFromEndOfList.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./src/main/java/MergeTwoSortedLists.java)|Easy|
-|23_Not_done|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./src/main/java/.java)||
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./src/main/java/MergeKSortedLists.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./src/main/java/SwapNodesInPairs.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/main/java/RemoveDuplicatesFromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./src/main/java/RemoveElement.java)|Easy|
