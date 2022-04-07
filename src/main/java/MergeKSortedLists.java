@@ -1,3 +1,5 @@
+import RecurringObjects.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -8,7 +10,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class MergeKSortedLists {
     public ListNode mergeKLists(ListNode[] lists) {
         int size = lists.length;
         if(size == 0 )
