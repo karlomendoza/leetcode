@@ -22,6 +22,7 @@ Solution for LeetCode Problems
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/main/java/RemoveDuplicatesFromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./src/main/java/RemoveElement.java)|Easy|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Java](./src/main/java/ImplementStrStr.java)|Easy|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./src/main/java/NextPermutation.java)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./src/main/java/GrayCode.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)|Medium|
