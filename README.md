@@ -38,7 +38,7 @@ Solution for LeetCode Problems
 |567_need_optimization|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./src/main/java/PermutationInString.java)|Medium||
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Java](./src/main/java/FindKClosestElements.java)|Medium||
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](./src/main/java/MapSumPairs.java)|Medium||
-|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./src/main/java/SearchBinarySearchTree.java)|Medium|[Video](https://youtu.be/eWWzQZyeUG0)|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./src/main/java/SearchBinarySearchTree.java)|Medium|[Video](https://youtu.be/OWPRtdRe-go)|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Java](./src/main/java/BinaryTreePruning.java)|Medium||
 |838_need_optimization|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Java](./src/main/java/PushDominoes.java)|Medium||
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Java](./src/main/java/PartitionArrayIntoDisjointIntervals.java)|Medium||
