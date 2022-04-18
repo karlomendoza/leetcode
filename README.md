@@ -30,6 +30,7 @@ Solution for LeetCode Problems
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./src/main/java/GrayCode.java)|Medium||
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)|Medium||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)|Medium|[YouTube](https://youtu.be/13SK5Uau3oo)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/main/java/KthSmallestElementBST.java)|Medium|[YouTube](https://youtu.be/aSnlJf8AXuk)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/main/java/MoveZeroes.java)|Easy|[YouTube](https://youtu.be/AW3u6w18hhI)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./src/main/java/PowerOfFour.java)|Easy||
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/AddStrings.java)|Easy||
