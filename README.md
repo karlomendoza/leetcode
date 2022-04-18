@@ -48,4 +48,3 @@ Solution for LeetCode Problems
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./src/main/java/SortedSquares.java)|Easy|[YouTube](https://youtu.be/fl_eDiiCc8k)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Java](./src/main/java/CheckIfOneStringSwapCanMakeStringsEqual.java)|Easy||
 |2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/contest/weekly-contest-289/problems/minimum-rounds-to-complete-all-tasks/) | [Java](./src/main/java/MinimumRoundsCompleteAllTasks.java)|Easy|[YouTube](https://youtu.be/uLqBExd5uHs)|
-MinimumRoundsCompleteAllTasks.java
