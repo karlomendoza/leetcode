@@ -47,4 +47,5 @@ Solution for LeetCode Problems
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](./src/main/java/VerifyingAnAlienDictionary.java)|Easy||
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./src/main/java/SortedSquares.java)|Easy|[YouTube](https://youtu.be/fl_eDiiCc8k)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Java](./src/main/java/CheckIfOneStringSwapCanMakeStringsEqual.java)|Easy||
-||[]() | [Java](./src/main/java/.java)|||
+|2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/contest/weekly-contest-289/problems/minimum-rounds-to-complete-all-tasks/) | [Java](./src/main/java/MinimumRoundsCompleteAllTasks.java)|Easy|[YouTube](https://youtu.be/uLqBExd5uHs)|
+MinimumRoundsCompleteAllTasks.java
