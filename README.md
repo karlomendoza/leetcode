@@ -28,6 +28,7 @@ Solution for LeetCode Problems
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Java](./src/main/java/SimplifyPath.java)|Medium|[YouTube](https://youtu.be/817mGPyVl78)|
 |88|[MergeSortedArray](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/main/java/MergeSortedArray.java)|Easy|[YouTube](https://youtu.be/EfmK32Qh9aY)|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./src/main/java/GrayCode.java)|Medium||
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](./src/main/java/RecoverBinarySearchTree.java)|Medium|[YouTube](https://youtu.be/NXjHz8YdxI4)|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)|Medium||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)|Medium|[YouTube](https://youtu.be/13SK5Uau3oo)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/main/java/KthSmallestElementBST.java)|Medium|[YouTube](https://youtu.be/aSnlJf8AXuk)|
