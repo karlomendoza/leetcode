@@ -47,6 +47,6 @@ Solution for LeetCode Problems
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Java](./src/main/java/PartitionArrayIntoDisjointIntervals.java)|Medium||
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](./src/main/java/VerifyingAnAlienDictionary.java)|Easy||
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./src/main/java/SortedSquares.java)|Easy|[YouTube](https://youtu.be/fl_eDiiCc8k)|
-|1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [Java](./src/main/java/SortedSquares.java)|Easy|[YouTube](https://youtu.be/qwvd3qQkLfA)|
+|1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [Java](./src/main/java/BraceExpansion.java)|Easy|[YouTube](https://youtu.be/qwvd3qQkLfA)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Java](./src/main/java/CheckIfOneStringSwapCanMakeStringsEqual.java)|Easy||
 |2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/contest/weekly-contest-289/problems/minimum-rounds-to-complete-all-tasks/) | [Java](./src/main/java/MinimumRoundsCompleteAllTasks.java)|Easy|[YouTube](https://youtu.be/uLqBExd5uHs)|
