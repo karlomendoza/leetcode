@@ -1,4 +1,8 @@
 import RecurringObjects.ListNode;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * Definition for singly-linked list.
@@ -17,8 +21,10 @@ class MergeKSortedLists {
             return null;
         
         int interval = 1;
-        
-        while(interval < size){
+
+
+
+      while(interval < size){
             
             for(int i = 0; i +interval < size; i = i + 2*interval){
                 lists[i] = merge2Lists(lists[i], lists[i+interval]);
