@@ -1,7 +1,11 @@
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.LinkedList;
+
 class MergeIntervals {
     public int[][] merge(int[][] intervals) {
         
-        //sorted 
+        //sorted
         Arrays.sort(intervals, Comparator.comparing(o -> o[0]));
         
         LinkedList<int[]> merged = new LinkedList();
