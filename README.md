@@ -1,7 +1,7 @@
 Solution for LeetCode Problems
 
 |# | Title | Solution | Difficulty | YouTube |
-|---| ----- | -------- |------------| ------|
+|--| ----- | -------- |------------| ------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/main/java/TwoSum.java)| Easy       ||
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](./src/main/java/AddTwoNumbers.java)| Medium     ||
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/main/java/LongestSubstringWithoutRepeatingCharacters.java)| Medium     ||
@@ -31,6 +31,7 @@ Solution for LeetCode Problems
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](./src/main/java/RecoverBinarySearchTree.java)| Medium     |[YouTube](https://youtu.be/NXjHz8YdxI4)|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)| Medium     ||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)| Medium     |[YouTube](https://youtu.be/13SK5Uau3oo)|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [Java](./src/main/java/BasicCalculator.java)| Hard     |[YouTube](https://youtu.be/mW3l7q4X-_U)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/main/java/KthSmallestElementBST.java)| Medium     |[YouTube](https://youtu.be/aSnlJf8AXuk)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/main/java/MoveZeroes.java)| Easy       |[YouTube](https://youtu.be/AW3u6w18hhI)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./src/main/java/PowerOfFour.java)| Easy       ||
