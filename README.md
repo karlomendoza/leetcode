@@ -44,6 +44,7 @@ Solution for LeetCode Problems
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Java](./src/main/java/MapSumPairs.java)| Medium     ||
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](./src/main/java/TrimBinarySearchTree.java)| Medium     |[Video](https://youtu.be/Y5SP-vqo_Nc)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./src/main/java/SearchBinarySearchTree.java)| Medium     |[Video](https://youtu.be/OWPRtdRe-go)|
+|724|[ind Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./src/main/java/FindPivotIndex.java)| Easy     |[Video](https://youtu.be/cfcB-36IV7A?t=239)|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Java](./src/main/java/BinaryTreePruning.java)| Medium     ||
 |838_need_optimization|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Java](./src/main/java/PushDominoes.java)| Medium     ||
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Java](./src/main/java/PartitionArrayIntoDisjointIntervals.java)| Medium     ||
@@ -51,6 +52,7 @@ Solution for LeetCode Problems
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./src/main/java/SortedSquares.java)| Easy       |[YouTube](https://youtu.be/fl_eDiiCc8k)|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) | [Java](./src/main/java/TwoCityScheduling.java)| Medium     |[YouTube](https://youtu.be/Wm8ymX730lU)|
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [Java](./src/main/java/BraceExpansion.java)| Easy       |[YouTube](https://youtu.be/qwvd3qQkLfA)|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Java](./src/main/java/RunningSum1dArray.java)| Easy       |[YouTube](https://youtu.be/cfcB-36IV7A)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Java](./src/main/java/CheckIfOneStringSwapCanMakeStringsEqual.java)| Easy       ||
 |1874|[Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [Java](./src/main/java/MinimizeProductSumTwoArrays.java)| Easy       |[Youtube](https://youtu.be/eCeqv9Y_llk)|
 |1926|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | [Java](./src/main/java/MinimizeProductSumTwoArrays.java)| Medium       |[Youtube](https://youtu.be/G-DE8bS6G6w)|
