@@ -33,6 +33,7 @@ Solution for LeetCode Problems
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)| Medium     |[YouTube](https://youtu.be/13SK5Uau3oo)|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [Java](./src/main/java/BasicCalculator.java)| Hard     |[YouTube](https://youtu.be/mW3l7q4X-_U)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/main/java/KthSmallestElementBST.java)| Medium     |[YouTube](https://youtu.be/aSnlJf8AXuk)|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./src/main/java/PerfectSquares.java)| Medium     |[YouTube](https://youtu.be/U-iTxB-ghV0)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/main/java/MoveZeroes.java)| Easy       |[YouTube](https://youtu.be/AW3u6w18hhI)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./src/main/java/PowerOfFour.java)| Easy       ||
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/AddStrings.java)| Easy       ||
