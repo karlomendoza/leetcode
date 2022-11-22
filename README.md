@@ -52,4 +52,5 @@ Solution for LeetCode Problems
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [Java](./src/main/java/BraceExpansion.java)| Easy       |[YouTube](https://youtu.be/qwvd3qQkLfA)|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Java](./src/main/java/CheckIfOneStringSwapCanMakeStringsEqual.java)| Easy       ||
 |1874|[Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [Java](./src/main/java/MinimizeProductSumTwoArrays.java)| Easy       |[Youtube](https://youtu.be/eCeqv9Y_llk)|
+|1926|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | [Java](./src/main/java/MinimizeProductSumTwoArrays.java)| Medium       |[Youtube](https://youtu.be/G-DE8bS6G6w)|
 |2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/contest/weekly-contest-289/problems/minimum-rounds-to-complete-all-tasks/) | [Java](./src/main/java/MinimumRoundsCompleteAllTasks.java)| Easy       |[YouTube](https://youtu.be/uLqBExd5uHs)|
