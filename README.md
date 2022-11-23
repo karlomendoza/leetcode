@@ -23,6 +23,7 @@ Solution for LeetCode Problems
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./src/main/java/RemoveElement.java)| Easy       ||
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Java](./src/main/java/ImplementStrStr.java)| Easy       ||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./src/main/java/NextPermutation.java)| Medium     |[YouTube](https://youtu.be/j31Ar25AiUQ)|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./src/main/java/ValidSudoku.java)| Medium     |[YouTube](https://youtu.be/Ht9qBDgbER4)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/main/java/MergeIntervals.java)| Medium     |[YouTube](https://youtu.be/PU2yWmlQ3_0)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./src/main/java/SpiralMatrixII.java)| Medium     |[YouTube](https://youtu.be/0ZCO8ltM8Ag)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Java](./src/main/java/SimplifyPath.java)| Medium     |[YouTube](https://youtu.be/817mGPyVl78)|
