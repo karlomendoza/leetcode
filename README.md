@@ -32,11 +32,13 @@ Solution for LeetCode Problems
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](./src/main/java/RecoverBinarySearchTree.java)| Medium     |[YouTube](https://youtu.be/NXjHz8YdxI4)|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)| Medium     ||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)| Medium     |[YouTube](https://youtu.be/13SK5Uau3oo)|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](./src/main/java/IsomorphicStrings.java)| Easy     |[YouTube](https://youtu.be/g2BKo8ld3CU)|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [Java](./src/main/java/BasicCalculator.java)| Hard     |[YouTube](https://youtu.be/mW3l7q4X-_U)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/main/java/KthSmallestElementBST.java)| Medium     |[YouTube](https://youtu.be/aSnlJf8AXuk)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./src/main/java/PerfectSquares.java)| Medium     |[YouTube](https://youtu.be/U-iTxB-ghV0)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/main/java/MoveZeroes.java)| Easy       |[YouTube](https://youtu.be/AW3u6w18hhI)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./src/main/java/PowerOfFour.java)| Easy       ||
+|392|[Is Subsequence](https://leetcode.com/problems/move-zeroes/) | [Java](./src/main/java/IsSubsequence.java)| Easy       |[YouTube](https://youtu.be/FWm0PglrxAs)|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/AddStrings.java)| Easy       ||
 |537|[Complex Number Multiplication](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/616/week-4-august-22nd-august-28th/3917/) | [Java](./src/main/java/ComplexNumberMultiplication.java)|||
 |542|[ZeroOne Matrix](https://leetcode.com/problems/01-matrix/) | [Java](./src/main/java/ZeroOneMatrix.java)| Medium     ||
