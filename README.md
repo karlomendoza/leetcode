@@ -27,6 +27,7 @@ Solution for LeetCode Problems
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/main/java/MergeIntervals.java)| Medium     |[YouTube](https://youtu.be/PU2yWmlQ3_0)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./src/main/java/SpiralMatrixII.java)| Medium     |[YouTube](https://youtu.be/0ZCO8ltM8Ag)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [Java](./src/main/java/SimplifyPath.java)| Medium     |[YouTube](https://youtu.be/817mGPyVl78)|
+|79|[Word Search](https://leetcode.com/problems/word-search/) | [Java](./src/main/java/WordSearch.java)| Medium     |[YouTube](https://youtu.be/IgxGyZCQSAA)|
 |88|[MergeSortedArray](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/main/java/MergeSortedArray.java)| Easy       |[YouTube](https://youtu.be/EfmK32Qh9aY)|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./src/main/java/GrayCode.java)| Medium     ||
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](./src/main/java/RecoverBinarySearchTree.java)| Medium     |[YouTube](https://youtu.be/NXjHz8YdxI4)|
