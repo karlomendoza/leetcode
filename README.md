@@ -16,7 +16,7 @@ Solution for LeetCode Problems
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./src/main/java/ThreeSumClosest.java)| Medium     ||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./src/main/java/LetterCombinationsOfAPhoneNumber.java)| Medium     ||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./src/main/java/RemoveNthNodeFromEndOfList.java)| Medium     ||
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./src/main/java/MergeTwoSortedLists.java)| Easy       ||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./src/main/java/MergeTwoSortedLists.java)| Easy       |[YouTube](https://youtu.be/Dtu8J4BSdtA)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./src/main/java/MergeKSortedLists.java)| Hard       |[YouTube](https://youtu.be/pzAyeQQHwzI)|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./src/main/java/SwapNodesInPairs.java)| Medium     ||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/main/java/RemoveDuplicatesFromSortedArray.java)| Easy       ||
@@ -32,8 +32,10 @@ Solution for LeetCode Problems
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./src/main/java/GrayCode.java)| Medium     ||
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](./src/main/java/RecoverBinarySearchTree.java)| Medium     |[YouTube](https://youtu.be/NXjHz8YdxI4)|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./src/main/java/PathSumII.java)| Medium     ||
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](./src/main/java/LinkedListCycleII.java)| Medium     |[YouTube](https://youtu.be/8ckRLg2ADwo)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./src/main/java/RotateArray.java)| Medium     |[YouTube](https://youtu.be/13SK5Uau3oo)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](./src/main/java/IsomorphicStrings.java)| Easy     |[YouTube](https://youtu.be/g2BKo8ld3CU)|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/main/java/IsomorphicStrings.java)| Easy     |[YouTube](https://youtu.be/hy_170YvML0)|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [Java](./src/main/java/BasicCalculator.java)| Hard     |[YouTube](https://youtu.be/mW3l7q4X-_U)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/main/java/KthSmallestElementBST.java)| Medium     |[YouTube](https://youtu.be/aSnlJf8AXuk)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./src/main/java/PerfectSquares.java)| Medium     |[YouTube](https://youtu.be/U-iTxB-ghV0)|
@@ -51,6 +53,7 @@ Solution for LeetCode Problems
 |724|[ind Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./src/main/java/FindPivotIndex.java)| Easy     |[Video](https://youtu.be/cfcB-36IV7A?t=239)|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Java](./src/main/java/BinaryTreePruning.java)| Medium     ||
 |838_need_optimization|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Java](./src/main/java/PushDominoes.java)| Medium     ||
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](./src/main/java/MiddleOfLinkedList.java)| Easy     |[Video](https://youtu.be/nqjQy6Bk_tc)|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Java](./src/main/java/PartitionArrayIntoDisjointIntervals.java)| Medium     ||
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](./src/main/java/VerifyingAnAlienDictionary.java)| Easy       ||
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./src/main/java/SortedSquares.java)| Easy       |[YouTube](https://youtu.be/fl_eDiiCc8k)|
